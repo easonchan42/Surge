@@ -1,6 +1,6 @@
 # Main
-DOMAIN-SUFFIX,poe.com,ChatGPT
-DOMAIN-SUFFIX,meta.ai,ChatGPT
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,meta.ai
 # Google Gemini
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
