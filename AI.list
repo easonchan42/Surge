@@ -1,6 +1,8 @@
 # Main
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,meta.ai
+# Google Labs
+DOMAIN,labs.google
 # Google Misc
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
